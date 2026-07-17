@@ -23,6 +23,10 @@ It uses a technique called **Retrieval-Augmented Generation (RAG)**, which combi
 <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/a2a1a10e-b804-4792-a5d4-086ded94fb5a" />
 
 
+<img width="1916" height="971" alt="image" src="https://github.com/user-attachments/assets/13b57cff-33ff-4c62-ab53-2eeb204071bf" />
+
+
+
 
 ## ❓ Problem It Solves
 
