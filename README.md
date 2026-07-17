@@ -20,6 +20,10 @@ It uses a technique called **Retrieval-Augmented Generation (RAG)**, which combi
 
 ---
 
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/a2a1a10e-b804-4792-a5d4-086ded94fb5a" />
+
+
+
 ## ❓ Problem It Solves
 
 | Problem | Solution |
